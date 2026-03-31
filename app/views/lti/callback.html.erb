@@ -1,0 +1,8 @@
+<h1>LTI Launch Successful</h1>
+
+<% unless @state_ok && @nonce_ok %>
+  <p><strong>Note:</strong> State/nonce did not validate (POC mode).</p>
+<% end %>
+
+<h2>Decoded JWT Claims</h2>
+<pre><%= h(JSON.pretty_generate(@claims)) %></pre>
