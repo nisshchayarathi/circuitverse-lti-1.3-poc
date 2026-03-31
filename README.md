@@ -138,9 +138,10 @@ ngrok http 3000
 ## Screenshots
 
 * saLTIre configuration
-* Successful launch
-* Decoded JWT claims page
+<img width="1913" height="872" alt="Screenshot 2026-03-31 200140" src="https://github.com/user-attachments/assets/9a646a68-2124-4101-86e1-85858c9641cb" />
 
+* Successful launch
+  <img width="931" height="978" alt="Screenshot 2026-03-31 200203" src="https://github.com/user-attachments/assets/0928a0ef-7d79-4b8e-b8e2-ff44c28da032" />
 ---
 
 ## Conclusion
